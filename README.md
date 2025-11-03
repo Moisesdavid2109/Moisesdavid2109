@@ -24,7 +24,7 @@ Actualmente estoy profundizando mis conocimientos en PHP, Laravel.
   <!-- Lenguajes -->
   <img src="https://skillicons.dev/icons?i=cs,dotnet,java,js,python,html,css,bootstrap,tailwind" /><br>
   <!-- Backend y BD -->
-  <img src="https://skillicons.dev/icons?i=nodejs,MongoDB,mysql,postman" /><br>
+  <img src="https://skillicons.dev/icons?i=nodejs,mongodb,mysql,postman" /><br>
   <!-- Herramientas -->
   <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,astro" />
 </p>
