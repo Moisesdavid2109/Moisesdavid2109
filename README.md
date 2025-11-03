@@ -13,7 +13,7 @@ Actualmente estoy profundizando mis conocimientos en PHP, Laravel.
 - 🌱 Aprendiendo: Javascript, Astro, React  
 - 💬 Pregúntame sobre: **C#, .NET, Java, SQL, Python, MongoDB 
 - 📫 Contáctame en: moises.becerra5b@gmail.com 
-- ⚡ Dato curioso: Me gusta combinarbastante la lógica con el diseño. 
+- ⚡ Dato curioso: Me gusta combinar bastante la lógica con el diseño. 
 
 ---
 
