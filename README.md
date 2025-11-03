@@ -1,16 +1,36 @@
-## Hi there 👋
+<!-- ====== ENCABEZADO ====== -->
+<h1 align="center">¡Hola! 👋 Soy Moises Becerra</h1>
+<h3 align="center">Estudiante de Ingeneria Informatica | 🌐 Apasionado por la tecnología y la innovación</h3>
 
-<!--
-**Moisesdavid2109/Moisesdavid2109** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- ====== SOBRE MÍ ====== -->
+## 🧠 Sobre mí
 
-Here are some ideas to get you started:
+Soy un desarrollador orientado a resultados con experiencia en el diseño y desarrollo de aplicaciones web.  
+Me apasiona la creación de soluciones eficientes, seguras y escalables.  
+Actualmente estoy profundizando mis conocimientos en PHP, Laravel.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🚀 Actualmente trabajando en: Aplicacion web llamada Cimientos de sabor 2.0 
+- 🌱 Aprendiendo: Javascript, Astro, React  
+- 💬 Pregúntame sobre: **C#, .NET, Java, SQL, Python, MongoDB 
+- 📫 Contáctame en: moises.becerra5b@gmail.com 
+- ⚡ Dato curioso: Me gusta combinarbastante la lógica con el diseño. 
+
+---
+
+<!-- ====== TECNOLOGÍAS ====== -->
+## 🧰 Tecnologías y Herramientas
+
+<p align="center">
+  <!-- Lenguajes -->
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,java,js,python,.NET,html,css,bootstrap,tailwind" /><br>
+  <!-- Backend y BD -->
+  <img src="https://skillicons.dev/icons?i=nodejs,mONGOdb,mysql,postman" /><br>
+  <!-- Herramientas -->
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,astro" />
+</p>
+
+---
+
+<!-- ====== FRASE FINAL ====== -->
+<h4 align="center">✨ "El código es como el arte: cada línea debe tener propósito y elegancia." ✨</h4>
+
