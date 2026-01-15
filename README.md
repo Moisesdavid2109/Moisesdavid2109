@@ -9,7 +9,7 @@ Soy un desarrollador orientado a resultados con experiencia en el diseño y desa
 Me apasiona la creación de soluciones eficientes, seguras y escalables.  
 Actualmente estoy profundizando mis conocimientos en PHP, Laravel.
 
-- 🚀 Actualmente trabajando en: Aplicacion web llamada Cimientos de sabor 2.0 
+- 🚀 Actualmente trabajando en: Aplicacion web llamada OficioNet
 - 🌱 Aprendiendo: Javascript, Astro, React  
 - 💬 Pregúntame sobre: **C#, .NET, Java, SQL, Python, MongoDB 
 - 📫 Contáctame en: moises.becerra5b@gmail.com 
